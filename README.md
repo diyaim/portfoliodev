@@ -1,4 +1,4 @@
-# Portfolio développeuse front-end — Dyhia Immoune
+# Portfolio développeuse front-end - Dyhia Immoune
 
 Site statique (HTML / CSS / JavaScript), publié avec GitHub Pages : https://diyaim.github.io/portfoliodev/
 
