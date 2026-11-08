@@ -7,3 +7,4 @@ Site statique (HTML / CSS / JavaScript), publié avec GitHub Pages : https://diy
 - `images/`, `cv/` : visuels et CV
 
 Lancer en local : `python -m http.server 5501` puis ouvrir http://localhost:5501
+
